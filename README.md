@@ -22,8 +22,7 @@ Liman MYS Mobil Uygulama
    ```sh
    cd ios && pod install
    ```
-5 Çalıştırma. (Ekran GÖrüntüleri klasöründen ekranlara ulaşabilirsiniz.)
+5 Çalıştırma.
    ```sh
    react-native run-ios
    ```
-

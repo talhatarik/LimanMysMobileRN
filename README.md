@@ -11,18 +11,18 @@ Liman MYS Mobil Uygulama
 
 1.Default react-native projesi oluşturma.
 ```sh
-   react-native init LimanMYS
-   ```
+react-native init LimanMYS
+```
 2. Dosyaları projenize kopyalayın.
 3. node_modules package.json üzerinden kuruluması.
-   ```sh
-   yarn install
-   ```
+```sh
+yarn install
+```
 4. IOS paketlerini çekme
-   ```sh
-   cd ios && pod install
-   ```
+```sh
+cd ios && pod install
+```
 5 Çalıştırma.
-   ```sh
-   react-native run-ios
-   ```
+```sh
+react-native run-ios
+```

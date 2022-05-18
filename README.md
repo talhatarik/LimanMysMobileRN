@@ -3,7 +3,7 @@ Liman MYS Mobil Uygulama
 
 
 
-<img data-canonical-src="https://raw.githubusercontent.com/talhatarik/LimanMysMobileRN/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202022-05-18%20at%2005.06.47.png" width="585" height="1226" />
+<img src="https://raw.githubusercontent.com/talhatarik/LimanMysMobileRN/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202022-05-18%20at%2005.06.47.png" width="585" height="1226" />
 
 
 

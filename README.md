@@ -9,7 +9,7 @@ Liman MYS Mobil Uygulama
    react-native init LimanMYS
    ```
 2. Dosyaları projenize kopyalayın.
-3. Paketleri çekme
+3. node_modules package.json üzerinden kuruluması.
    ```sh
    yarn install
    ```

@@ -7,7 +7,7 @@ Liman MYS Mobil Uygulama
 
 
 
-### Kurulum
+### Projeyi Çalıştırma
 
 1.Default react-native projesi oluşturma.
 ```sh

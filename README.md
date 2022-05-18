@@ -4,7 +4,8 @@ Liman MYS Mobil Uygulama
 
 ### Kurulum
 
-1.    ```sh
+1.Default react-native projesi oluşturma.
+```sh
    react-native init LimanMYS
    ```
 2. Dosyaları projenize kopyalayın.
